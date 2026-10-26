@@ -1,0 +1,59 @@
+{
+ "photos": [
+  {
+   "id": "photo01",
+   "src": "2A2DFDDC5D144FDBB92CBA0C81CBF13A.png",
+   "full": "photo01.webp",
+   "w": 1800,
+   "h": 1350,
+   "mid": "mid/photo01.webp",
+   "thumb": "thumb/photo01.webp",
+   "thumbW": 384,
+   "thumbH": 288
+  },
+  {
+   "id": "photo02",
+   "src": "60BC0A7C10D3449503A26E4E4B0B7FD5.png",
+   "full": "photo02.webp",
+   "w": 1800,
+   "h": 1350,
+   "mid": "mid/photo02.webp",
+   "thumb": "thumb/photo02.webp",
+   "thumbW": 384,
+   "thumbH": 288
+  },
+  {
+   "id": "photo03",
+   "src": "636C6D4C690AAE497C7C51E564A86C95.png",
+   "full": "photo03.webp",
+   "w": 1800,
+   "h": 1350,
+   "mid": "mid/photo03.webp",
+   "thumb": "thumb/photo03.webp",
+   "thumbW": 384,
+   "thumbH": 288
+  },
+  {
+   "id": "photo04",
+   "src": "93D93F346B71FDD9105BE925563ADB38.jpg",
+   "full": "photo04.webp",
+   "w": 1800,
+   "h": 1350,
+   "mid": "mid/photo04.webp",
+   "thumb": "thumb/photo04.webp",
+   "thumbW": 384,
+   "thumbH": 288
+  },
+  {
+   "id": "photo05",
+   "src": "B0D1343DF5FBF13653F2BEA3440FE2B2.png",
+   "full": "photo05.webp",
+   "w": 1350,
+   "h": 1800,
+   "mid": "mid/photo05.webp",
+   "thumb": "thumb/photo05.webp",
+   "thumbW": 288,
+   "thumbH": 384
+  }
+ ]
+}
